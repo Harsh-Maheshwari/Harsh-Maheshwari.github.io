@@ -1,0 +1,210 @@
+#Home {
+  text-align:center;
+}
+
+#Home .jumbotron {
+  margin-top:300px;
+  padding:40px;
+  border-radius:30px;
+  background-color:rgba(255,255,255,0);
+}
+
+#quote {
+  font-family:serif;
+  border-radius:30px;
+}
+
+@media (max-width: 576px) {
+  #home-image {
+    max-width:50%;
+  }
+}
+
+img.centerImg {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+#profile {
+  border-radius:30%;
+  width:90%;
+  margin-top:10%;
+}
+
+#myself {
+  font-size:24px;
+}
+
+#intro-parra {
+  font-size:24px;
+}
+
+@media (max-width: 992px) {
+  #myself {
+    font-size:20px;
+  }
+}
+
+@media (max-width: 992px) {
+  #intro-parra {
+    font-size:20px;
+  }
+}
+
+@media (max-width: 768px) {
+  #myself {
+    font-size:14px;
+  }
+}
+
+@media (max-width: 768px) {
+  #intro-parra {
+    font-size:14px;
+  }
+}
+
+#hi {
+  font-size:80px;
+}
+
+#welcome {
+  font-size:60px;
+}
+
+#social {
+  padding:5%;
+}
+
+@media (max-width: 992px) {
+  #hi {
+    font-size:60px;
+  }
+}
+
+@media (max-width: 992px) {
+  #welcome {
+    font-size:40px;
+  }
+}
+
+@media (max-width: 992px) {
+  #social {
+    font-size:small;
+  }
+}
+
+@media (max-width: 768px) {
+  #hi {
+    font-size:40px;
+  }
+}
+
+@media (max-width: 768px) {
+  #welcome {
+    font-size:30px;
+  }
+}
+
+@media (max-width: 768px) {
+  #social {
+    padding:1%;
+  }
+}
+
+@media (max-width: 576px) {
+  #hi {
+    padding-top:30px;
+    font-size:xx-large;
+  }
+}
+
+@media (max-width: 576px) {
+  #welcome {
+    font-size:x-large;
+  }
+}
+
+@media (max-width: 576px) {
+  #social {
+    font-size:xx-small;
+  }
+}
+
+@media (max-width: 360px) {
+  #hi {
+    display:none;
+  }
+}
+
+@media (max-width: 360px) {
+  #welcome {
+    padding-top:40px;
+    padding-bottom:25px;
+  }
+}
+
+@media (max-width: 576px) {
+  #Extra {
+    display:none;
+  }
+}
+
+@media (max-width: 576px) {
+  #foot {
+    display:none;
+  }
+}
+
+@media (max-width: 576px) {
+  #Extra1 {
+    display:none;
+  }
+}
+
+@media (max-width: 576px) {
+  #foot1 {
+    display:none;
+  }
+}
+
+@media (max-width: 576px) {
+  #Extra2 {
+    display:none;
+  }
+}
+
+@media (max-width: 576px) {
+  #foot2 {
+    display:none;
+  }
+}
+
+@media (max-width: 576px) {
+  #Extra3 {
+    display:none;
+  }
+}
+
+@media (max-width: 576px) {
+  #foot3 {
+    display:none;
+  }
+}
+
+@media (max-width: 576px) {
+  #profile {
+    padding-bottom:25px;
+    margin-top:10px;
+  }
+}
+
+.des {
+  margin-top:10px;
+}
+
+.Blogtitle {
+  display:block;
+  text-align:center;
+}
+
